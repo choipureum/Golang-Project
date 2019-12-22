@@ -1,3 +1,3 @@
 #Hello
 
-Programming study project using Golang.
+Programming study using Golang(Summary dummy file && Projects)
